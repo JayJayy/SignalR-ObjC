@@ -360,7 +360,7 @@
 		39EBAC2816D03F1000C6F359 /* SRConnectionInterface.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SRConnectionInterface.h; sourceTree = "<group>"; };
 		39EBAC2916D03F5800C6F359 /* SRConnectionDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SRConnectionDelegate.h; sourceTree = "<group>"; };
 		39EBAC2E16D067CB00C6F359 /* SRHubProxyInterface.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SRHubProxyInterface.h; sourceTree = "<group>"; };
-		39EBAC3616D07A0B00C6F359 /* SignalR-ObjC.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = "SignalR-ObjC.podspec"; path = "../SignalR-ObjC.podspec"; sourceTree = "<group>"; };
+		39EBAC3616D07A0B00C6F359 /* SignalR-ObjC-SwiftHack.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = "SignalR-ObjC-SwiftHack.podspec"; path = "../SignalR-ObjC-SwiftHack.podspec"; sourceTree = "<group>"; };
 		39EBAC3716D07CF300C6F359 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = SOURCE_ROOT; };
 		39EBAC3816D07CF300C6F359 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = SOURCE_ROOT; };
 		39EBAC3916D07CF300C6F359 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = SOURCE_ROOT; };
@@ -523,7 +523,7 @@
 				39EBAC3F16D07D5100C6F359 /* LICENSE.md */,
 				39EBAC4016D07D5100C6F359 /* README.md */,
 				396D2851165ABCD50000D19E /* Podfile */,
-				39EBAC3616D07A0B00C6F359 /* SignalR-ObjC.podspec */,
+				39EBAC3616D07A0B00C6F359 /* SignalR-ObjC-SwiftHack.podspec */,
 				3920781715AF13F6009B959E /* SignalR.Client */,
 				3920780C15AF13C3009B959E /* SignalR.Client.iOS */,
 				3919637015AF205300DDC946 /* SignalR.Client.OSX */,
